@@ -1,0 +1,3547 @@
+[{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c233"
+  },
+  "City": "Oulad Sidi Ben Daoud",
+  "Region": "Casablanca-Settat",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c21b"
+  },
+  "City": "Casablanca",
+  "Region": "Casablanca-Settat",
+  "Active": "130",
+  "Deaths": "1",
+  "Recovered": "1"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c21d"
+  },
+  "City": "Mohammadia",
+  "Region": "Casablanca-Settat",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c26b"
+  },
+  "City": "Moulay Bousselham",
+  "Region": "Rabat-Salé-Kénitra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c223"
+  },
+  "City": "Berrechid",
+  "Region": "Casablanca-Settat",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c244"
+  },
+  "City": "Oualidia",
+  "Region": "Casablanca-Settat",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c246"
+  },
+  "City": "Oulad Frej",
+  "Region": "Casablanca-Settat",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c254"
+  },
+  "City": "Boulemane",
+  "Region": "Fès-Meknès",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c273"
+  },
+  "City": "Assa",
+  "Region": "Guelmim-Oued Noun",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c282"
+  },
+  "City": "Aït Ourir",
+  "Region": "Marrakech-Safi",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c286"
+  },
+  "City": "El Kelaâ des Sraghna",
+  "Region": "Marrakech-Safi",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c294"
+  },
+  "City": "Sid Zouin",
+  "Region": "Marrakech-Safi",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2ba"
+  },
+  "City": "Goulmima",
+  "Region": "Drâa-Tafilalet",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2d2"
+  },
+  "City": "Tighza",
+  "Region": "Béni Mellal-Khénifra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2d7"
+  },
+  "City": "Tounfite",
+  "Region": "Drâa-Tafilalet",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2fe"
+  },
+  "City": "Selouane",
+  "Region": "l'Oriental",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c324"
+  },
+  "City": "Ben Sergao",
+  "Region": "Souss-Massa",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c354"
+  },
+  "City": "Béni Mellal",
+  "Region": "Béni Mellal-Khénifra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c359"
+  },
+  "City": "Demnate",
+  "Region": "Béni Mellal-Khénifra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c36a"
+  },
+  "City": "Bab Berred",
+  "Region": "Tanger-Tétouan-Al Hoceïma",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c375"
+  },
+  "City": "Ksar El Kébir",
+  "Region": "Tanger-Tétouan-Al Hoceïma",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c38d"
+  },
+  "City": "Karia Ba Mohamed‎",
+  "Region": "Fès-Meknès",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c39f"
+  },
+  "City": "Oued-Eddahab",
+  "Region": "Dakhla-Oued Ed Dahab",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c218"
+  },
+  "City": "Aïn Harrouda",
+  "Region": "Casablanca-Settat",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c21f"
+  },
+  "City": "Ben Yakhlef",
+  "Region": "Casablanca-Settat",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c224"
+  },
+  "City": "Boujniba",
+  "Region": "Béni Mellal-Khénifra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c226"
+  },
+  "City": "Bouznika",
+  "Region": "Casablanca-Settat",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c22a"
+  },
+  "City": "Guisser",
+  "Region": "Casablanca-Settat",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c22f"
+  },
+  "City": "Oulad Abbou",
+  "Region": "Casablanca-Settat",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c237"
+  },
+  "City": "Soualem",
+  "Region": "Casablanca-Settat",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c238"
+  },
+  "City": "Azemmour",
+  "Region": "Casablanca-Settat",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c23b"
+  },
+  "City": "Echemmaia",
+  "Region": "Marrakech-Safi",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c23c"
+  },
+  "City": "El Jadida",
+  "Region": "Casablanca-Settat",
+  "Active": "1",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c271"
+  },
+  "City": "Souk El Arbaa",
+  "Region": "Rabat-Salé-Kénitra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2a2"
+  },
+  "City": "Zeubelemok",
+  "Region": "Marrakech-Safi",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2ab"
+  },
+  "City": "Arfoud",
+  "Region": "Drâa-Tafilalet",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2cd"
+  },
+  "City": "Sabaa Aiyoun",
+  "Region": "Fès-Meknès",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2d5"
+  },
+  "City": "Tizguite",
+  "Region": "Fès-Meknès",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2e7"
+  },
+  "City": "Bouhdila",
+  "Region": "l'Oriental",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c30c"
+  },
+  "City": "Harhoura",
+  "Region": "Rabat-Salé-Kénitra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c312"
+  },
+  "City": "Skhirate",
+  "Region": "Rabat-Salé-Kénitra",
+  "Active": "11",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c325"
+  },
+  "City": "Biougra",
+  "Region": "Souss-Massa",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c343"
+  },
+  "City": "Taliouine",
+  "Region": "Souss-Massa",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c34c"
+  },
+  "City": "Tiznit",
+  "Region": "Souss-Massa",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c358"
+  },
+  "City": "Dar Oulad Zidouh",
+  "Region": "Béni Mellal-Khénifra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c35a"
+  },
+  "City": "Dra'a",
+  "Region": "Drâa-Tafilalet",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c36e"
+  },
+  "City": "Dar Bni Karrich",
+  "Region": "Tanger-Tétouan-Al Hoceïma",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c37f"
+  },
+  "City": "Sidi Mohamed ben Abdallah el-Raisuni",
+  "Region": "Tanger-Tétouan-Al Hoceïma",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c385"
+  },
+  "City": "Bni Bouayach‎",
+  "Region": "Tanger-Tétouan-Al Hoceïma",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c38e"
+  },
+  "City": "Oued Amlil‎",
+  "Region": "Fès-Meknès",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c397"
+  },
+  "City": "Thar Es-Souk‎",
+  "Region": "Fès-Meknès",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c39c"
+  },
+  "City": "Tarfaya‎",
+  "Region": "Laâyoune-Sakia El Hamra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c230"
+  },
+  "City": "Oulad H'Riz Sahel",
+  "Region": "Casablanca-Settat",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c272"
+  },
+  "City": "Akka",
+  "Region": "Souss-Massa",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c289"
+  },
+  "City": "Ghmate",
+  "Region": "Marrakech-Safi",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c29c"
+  },
+  "City": "Talmest",
+  "Region": "Marrakech-Safi",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c29e"
+  },
+  "City": "Tamanar",
+  "Region": "Marrakech-Safi",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2b2"
+  },
+  "City": "Boudnib",
+  "Region": "Drâa-Tafilalet",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2bb"
+  },
+  "City": "Gourrama",
+  "Region": "Drâa-Tafilalet",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c26c"
+  },
+  "City": "Sidi Allal Tazi",
+  "Region": "Rabat-Salé-Kénitra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2d1"
+  },
+  "City": "Tighassaline",
+  "Region": "Béni Mellal-Khénifra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c27e"
+  },
+  "City": "Marrakech",
+  "Region": "Marrakech-Safi",
+  "Active": "76",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2dd"
+  },
+  "City": "Aïn Bni Mathar",
+  "Region": "l'Oriental",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2ec"
+  },
+  "City": "El Aïoun Sidi Mellouk",
+  "Region": "l'Oriental",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c288"
+  },
+  "City": "Fraïta",
+  "Region": "Marrakech-Safi",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2ef"
+  },
+  "City": "Ihddaden",
+  "Region": "l'Oriental",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2b1"
+  },
+  "City": "Aït Ishaq",
+  "Region": "Béni Mellal-Khénifra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2f5"
+  },
+  "City": "Laâtamna",
+  "Region": "l'Oriental",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2f8"
+  },
+  "City": "Nador",
+  "Region": "l'Oriental",
+  "Active": "1",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2b7"
+  },
+  "City": "Er-Rich",
+  "Region": "Béni Mellal-Khénifra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c300"
+  },
+  "City": "Sidi Slimane Echcharaa",
+  "Region": "l'Oriental",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2b9"
+  },
+  "City": "Gardmit",
+  "Region": "Drâa-Tafilalet",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c308"
+  },
+  "City": "Zeghanghane",
+  "Region": "l'Oriental",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2c4"
+  },
+  "City": "M'rirt",
+  "Region": "Béni Mellal-Khénifra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2c5"
+  },
+  "City": "Midelt",
+  "Region": "Drâa-Tafilalet",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c318"
+  },
+  "City": "Agadir",
+  "Region": "Souss-Massa",
+  "Active": "9",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2d3"
+  },
+  "City": "Timahdite",
+  "Region": "Fès-Meknès",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2e6"
+  },
+  "City": "Bouarfa",
+  "Region": "l'Oriental",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c319"
+  },
+  "City": "Agdz",
+  "Region": "Drâa-Tafilalet",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2e9"
+  },
+  "City": "Debdou",
+  "Region": "l'Oriental",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c301"
+  },
+  "City": "Talsint",
+  "Region": "l'Oriental",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c322"
+  },
+  "City": "Aït Iaâza",
+  "Region": "Souss-Massa",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c309"
+  },
+  "City": "Rabat",
+  "Region": "Rabat-Salé-Kénitra",
+  "Active": "40",
+  "Deaths": "0",
+  "Recovered": "1"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c352"
+  },
+  "City": "Aït Majden",
+  "Region": "Béni Mellal-Khénifra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c380"
+  },
+  "City": "Zinat",
+  "Region": "Tanger-Tétouan-Al Hoceïma",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c30a"
+  },
+  "City": "Salé",
+  "Region": "Rabat-Salé-Kénitra",
+  "Active": "14",
+  "Deaths": "1",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c394"
+  },
+  "City": "Targuist‎",
+  "Region": "Tanger-Tétouan-Al Hoceïma",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c320"
+  },
+  "City": "Arazane",
+  "Region": "Souss-Massa",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c321"
+  },
+  "City": "Aït Baha",
+  "Region": "Souss-Massa",
+  "Active": "1",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c328"
+  },
+  "City": "Drargua",
+  "Region": "Souss-Massa",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c329"
+  },
+  "City": "El Guerdane",
+  "Region": "Souss-Massa",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c350"
+  },
+  "City": "Aghbala",
+  "Region": "Béni Mellal-Khénifra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c368"
+  },
+  "City": "Akchour",
+  "Region": "Tanger-Tétouan-Al Hoceïma",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c37a"
+  },
+  "City": "Oued Laou",
+  "Region": "Tanger-Tétouan-Al Hoceïma",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c392"
+  },
+  "City": "Tamassint‎",
+  "Region": "Tanger-Tétouan-Al Hoceïma",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c398"
+  },
+  "City": "Tissa‎",
+  "Region": "Fès-Meknès",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c23e"
+  },
+  "City": "Ighoud",
+  "Region": "Marrakech-Safi",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c21e"
+  },
+  "City": "Tit Mellil",
+  "Region": "Casablanca-Settat",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c231"
+  },
+  "City": "Oulad M'rah",
+  "Region": "Casablanca-Settat",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c241"
+  },
+  "City": "Khemis Zemamra",
+  "Region": "Casablanca-Settat",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c27a"
+  },
+  "City": "Taghjijt",
+  "Region": "Guelmim-Oued Noun",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c242"
+  },
+  "City": "Laaounate",
+  "Region": "Casablanca-Settat",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c27f"
+  },
+  "City": "Ait Daoud",
+  "Region": "Marrakech-Safi",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c249"
+  },
+  "City": "Sebt El Maârif",
+  "Region": "Casablanca-Settat",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c290"
+  },
+  "City": "Moulay Brahim",
+  "Region": "Marrakech-Safi",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c24f"
+  },
+  "City": "Sidi Smaïl",
+  "Region": "Casablanca-Settat",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c298"
+  },
+  "City": "Skhour Rehamna",
+  "Region": "Marrakech-Safi",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c258"
+  },
+  "City": "Imouzzer Marmoucha",
+  "Region": "Fès-Meknès",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c299"
+  },
+  "City": "Smimou",
+  "Region": "Marrakech-Safi",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c25e"
+  },
+  "City": "Séfrou",
+  "Region": "Fès-Meknès",
+  "Active": "1",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2a8"
+  },
+  "City": "Rissani",
+  "Region": "Drâa-Tafilalet",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c267"
+  },
+  "City": "Khenichet",
+  "Region": "Rabat-Salé-Kénitra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2ac"
+  },
+  "City": "Azrou",
+  "Region": "Fès-Meknès",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2ad"
+  },
+  "City": "Aïn Jemaa",
+  "Region": "Fès-Meknès",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c26e"
+  },
+  "City": "Sidi Slimane",
+  "Region": "Rabat-Salé-Kénitra",
+  "Active": "1",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2b4"
+  },
+  "City": "Boumia",
+  "Region": "Drâa-Tafilalet",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c274"
+  },
+  "City": "Bouizakarne",
+  "Region": "Guelmim-Oued Noun",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2c6"
+  },
+  "City": "Moulay Ali Cherif",
+  "Region": "Drâa-Tafilalet",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2cb"
+  },
+  "City": "Ouaoumana",
+  "Region": "Béni Mellal-Khénifra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c27c"
+  },
+  "City": "Tata",
+  "Region": "Souss-Massa",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2de"
+  },
+  "City": "Aïn Erreggada",
+  "Region": "l'Oriental",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2f0"
+  },
+  "City": "Jaâdar",
+  "Region": "l'Oriental",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c28a"
+  },
+  "City": "Ighounane",
+  "Region": "Drâa-Tafilalet",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2f4"
+  },
+  "City": "Kerouna",
+  "Region": "l'Oriental",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c296"
+  },
+  "City": "Sidi Bou Othmane",
+  "Region": "Marrakech-Safi",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2fc"
+  },
+  "City": "Ras El Ma",
+  "Region": "l'Oriental",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2a4"
+  },
+  "City": "Khénifra",
+  "Region": "Béni Mellal-Khénifra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c323"
+  },
+  "City": "Aït Yalla",
+  "Region": "Drâa-Tafilalet",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2af"
+  },
+  "City": "Aïn Leuh",
+  "Region": "Fès-Meknès",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c344"
+  },
+  "City": "Tamegroute",
+  "Region": "Drâa-Tafilalet",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2ff"
+  },
+  "City": "Sidi Boubker",
+  "Region": "l'Oriental",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c348"
+  },
+  "City": "Taroudannt",
+  "Region": "Souss-Massa",
+  "Active": "1",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c353"
+  },
+  "City": "Beni Ayat",
+  "Region": "Béni Mellal-Khénifra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c305"
+  },
+  "City": "Touima",
+  "Region": "l'Oriental",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c360"
+  },
+  "City": "Oulad Ayad",
+  "Region": "Béni Mellal-Khénifra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c30b"
+  },
+  "City": "Ain El Aouda",
+  "Region": "Rabat-Salé-Kénitra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c365"
+  },
+  "City": "Zaouïat Cheikh",
+  "Region": "Béni Mellal-Khénifra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c311"
+  },
+  "City": "Sidi Bouknadel",
+  "Region": "Rabat-Salé-Kénitra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c36b"
+  },
+  "City": "Bab Taza",
+  "Region": "Tanger-Tétouan-Al Hoceïma",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c316"
+  },
+  "City": "Tiflet",
+  "Region": "Rabat-Salé-Kénitra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c372"
+  },
+  "City": "Jebha",
+  "Region": "Tanger-Tétouan-Al Hoceïma",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c32a"
+  },
+  "City": "Harte Lyamine",
+  "Region": "Drâa-Tafilalet",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c333"
+  },
+  "City": "Lakhsas",
+  "Region": "Souss-Massa",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c356"
+  },
+  "City": "Bradia",
+  "Region": "Béni Mellal-Khénifra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c384"
+  },
+  "City": "Aït Hichem‎",
+  "Region": "Tanger-Tétouan-Al Hoceïma",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c362"
+  },
+  "City": "Oulad Yaich",
+  "Region": "Béni Mellal-Khénifra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c389"
+  },
+  "City": "Imzouren‎",
+  "Region": "Tanger-Tétouan-Al Hoceïma",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c363"
+  },
+  "City": "Sidi Jaber",
+  "Region": "Béni Mellal-Khénifra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c37d"
+  },
+  "City": "Point Cires",
+  "Region": "Tanger-Tétouan-Al Hoceïma",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c38c"
+  },
+  "City": "Karia (El Jadida)‎",
+  "Region": "Casablanca-Settat",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c396"
+  },
+  "City": "Taïnaste‎",
+  "Region": "Fès-Meknès",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c225"
+  },
+  "City": "Boulanouare",
+  "Region": "Béni Mellal-Khénifra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c22b"
+  },
+  "City": "Hattane",
+  "Region": "Béni Mellal-Khénifra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c232"
+  },
+  "City": "Oulad Saïd",
+  "Region": "Casablanca-Settat",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c240"
+  },
+  "City": "Jorf Lasfar",
+  "Region": "Casablanca-Settat",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c24b"
+  },
+  "City": "Sidi Ahmed",
+  "Region": "Marrakech-Safi",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c24d"
+  },
+  "City": "Sidi Bennour",
+  "Region": "Casablanca-Settat",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c250"
+  },
+  "City": "Youssoufia",
+  "Region": "Marrakech-Safi",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c252"
+  },
+  "City": "Aïn Cheggag",
+  "Region": "Fès-Meknès",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c25d"
+  },
+  "City": "Ribate El Kheir",
+  "Region": "Fès-Meknès",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c26f"
+  },
+  "City": "Sidi Taibi",
+  "Region": "Rabat-Salé-Kénitra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c27b"
+  },
+  "City": "Tan-Tan",
+  "Region": "Guelmim-Oued Noun",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c27d"
+  },
+  "City": "Zag",
+  "Region": "Guelmim-Oued Noun",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c284"
+  },
+  "City": "Chichaoua",
+  "Region": "Marrakech-Safi",
+  "Active": "3",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c29a"
+  },
+  "City": "Tafetachte",
+  "Region": "Marrakech-Safi",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c29d"
+  },
+  "City": "Tamallalt",
+  "Region": "Marrakech-Safi",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2a1"
+  },
+  "City": "Tanalt",
+  "Region": "Souss-Massa",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2dc"
+  },
+  "City": "Al Aroui",
+  "Region": "l'Oriental",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2e1"
+  },
+  "City": "Bni Ansar",
+  "Region": "l'Oriental",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2f9"
+  },
+  "City": "Naima",
+  "Region": "l'Oriental",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c327"
+  },
+  "City": "Dcheira El Jihadia",
+  "Region": "Souss-Massa",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c32e"
+  },
+  "City": "Ighil n'Oumgoun",
+  "Region": "Drâa-Tafilalet",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c342"
+  },
+  "City": "Tagzen",
+  "Region": "Souss-Massa",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c346"
+  },
+  "City": "Tanoumrite Nkob Zagora",
+  "Region": "Drâa-Tafilalet",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c34a"
+  },
+  "City": "Tifnit",
+  "Region": "Souss-Massa",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c34b"
+  },
+  "City": "Tisgdal",
+  "Region": "Souss-Massa",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c35c"
+  },
+  "City": "Foum Jamaa",
+  "Region": "Béni Mellal-Khénifra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c388"
+  },
+  "City": "Guercif‎",
+  "Region": "l'Oriental",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c39a"
+  },
+  "City": "Laayoune‎",
+  "Region": "Laâyoune-Sakia El Hamra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c245"
+  },
+  "City": "Oulad Amrane",
+  "Region": "Casablanca-Settat",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c26d"
+  },
+  "City": "Sidi Kacem",
+  "Region": "Rabat-Salé-Kénitra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c285"
+  },
+  "City": "El Hanchane",
+  "Region": "Marrakech-Safi",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c28c"
+  },
+  "City": "Kattara",
+  "Region": "Marrakech-Safi",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c293"
+  },
+  "City": "Sid L'Mokhtar",
+  "Region": "Marrakech-Safi",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2a0"
+  },
+  "City": "Tameslouht",
+  "Region": "Marrakech-Safi",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2aa"
+  },
+  "City": "Aoufous",
+  "Region": "Drâa-Tafilalet",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2b6"
+  },
+  "City": "Elkbab",
+  "Region": "Béni Mellal-Khénifra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c30f"
+  },
+  "City": "Rommani",
+  "Region": "Rabat-Salé-Kénitra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c335"
+  },
+  "City": "Lqliâa",
+  "Region": "Souss-Massa",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c35d"
+  },
+  "City": "Fquih Ben Salah",
+  "Region": "Béni Mellal-Khénifra",
+  "Active": "3",
+  "Deaths": "0",
+  "Recovered": "1"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c369"
+  },
+  "City": "Assilah",
+  "Region": "Tanger-Tétouan-Al Hoceïma",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c36f"
+  },
+  "City": "Dar Chaoui",
+  "Region": "Tanger-Tétouan-Al Hoceïma",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c370"
+  },
+  "City": "Fnideq",
+  "Region": "Tanger-Tétouan-Al Hoceïma",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c377"
+  },
+  "City": "M'diq",
+  "Region": "Tanger-Tétouan-Al Hoceïma",
+  "Active": "2",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c378"
+  },
+  "City": "Martil",
+  "Region": "Tanger-Tétouan-Al Hoceïma",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c219"
+  },
+  "City": "Ben Yakhlef",
+  "Region": "Casablanca-Settat",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c21a"
+  },
+  "City": "Bouskoura",
+  "Region": "Casablanca-Settat",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c236"
+  },
+  "City": "Sidi Rahhal Chataï",
+  "Region": "Casablanca-Settat",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c23d"
+  },
+  "City": "Hrara",
+  "Region": "Marrakech-Safi",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c23f"
+  },
+  "City": "Jamâat Shaim",
+  "Region": "Marrakech-Safi",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c261"
+  },
+  "City": "Arbaoua",
+  "Region": "Rabat-Salé-Kénitra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c270"
+  },
+  "City": "Sidi Yahya El Gharb",
+  "Region": "Rabat-Salé-Kénitra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c291"
+  },
+  "City": "Mzouda",
+  "Region": "Marrakech-Safi",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c295"
+  },
+  "City": "Sidi Abdallah Ghiat",
+  "Region": "Marrakech-Safi",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c29f"
+  },
+  "City": "Tamansourt",
+  "Region": "Marrakech-Safi",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2b0"
+  },
+  "City": "Aït Boubidmane",
+  "Region": "Fès-Meknès",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2cc"
+  },
+  "City": "Oued Ifrane",
+  "Region": "Fès-Meknès",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2d0"
+  },
+  "City": "Tichoute",
+  "Region": "Drâa-Tafilalet",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2e4"
+  },
+  "City": "Bni Tadjite",
+  "Region": "l'Oriental",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2f7"
+  },
+  "City": "Midar",
+  "Region": "l'Oriental",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c31a"
+  },
+  "City": "Agni Izimmer",
+  "Region": "Souss-Massa",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c326"
+  },
+  "City": "Boumalne-Dadès",
+  "Region": "Drâa-Tafilalet",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c32f"
+  },
+  "City": "Imassine",
+  "Region": "Drâa-Tafilalet",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c332"
+  },
+  "City": "Kelaat-M'Gouna",
+  "Region": "Drâa-Tafilalet",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c334"
+  },
+  "City": "Lakhsass",
+  "Region": "Souss-Massa",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c338"
+  },
+  "City": "Megousse",
+  "Region": "Souss-Massa",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c364"
+  },
+  "City": "Souk Sebt Oulad Nemma",
+  "Region": "Béni Mellal-Khénifra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c38b"
+  },
+  "City": "Issaguen (Ketama)‎",
+  "Region": "Tanger-Tétouan-Al Hoceïma",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c3a0"
+  },
+  "City": "Stehat",
+  "Region": "Tanger-Tétouan-Al Hoceïma",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c22e"
+  },
+  "City": "Oued Zem",
+  "Region": "Béni Mellal-Khénifra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c251"
+  },
+  "City": "Fès",
+  "Region": "Fès-Meknès",
+  "Active": "28",
+  "Deaths": "0",
+  "Recovered": "1"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c220"
+  },
+  "City": "Bejaâd",
+  "Region": "Béni Mellal-Khénifra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c227"
+  },
+  "City": "Deroua",
+  "Region": "Casablanca-Settat",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c253"
+  },
+  "City": "Bhalil",
+  "Region": "Fès-Meknès",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c25a"
+  },
+  "City": "Moulay Yaâcoub",
+  "Region": "Fès-Meknès",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c260"
+  },
+  "City": "Tafajight",
+  "Region": "Fès-Meknès",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c26a"
+  },
+  "City": "Mehdia",
+  "Region": "Rabat-Salé-Kénitra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c275"
+  },
+  "City": "El Ouatia",
+  "Region": "Guelmim-Oued Noun",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c277"
+  },
+  "City": "Fam El Hisn",
+  "Region": "Souss-Massa",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c281"
+  },
+  "City": "Assahrij",
+  "Region": "Marrakech-Safi",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c287"
+  },
+  "City": "Essaouira",
+  "Region": "Marrakech-Safi",
+  "Active": "2",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2a9"
+  },
+  "City": "Amalou Ighriben",
+  "Region": "Béni Mellal-Khénifra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2be"
+  },
+  "City": "Ifrane",
+  "Region": "Fès-Meknès",
+  "Active": "3",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2c2"
+  },
+  "City": "Kerrouchen",
+  "Region": "Béni Mellal-Khénifra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2d9"
+  },
+  "City": "Zaïda",
+  "Region": "Drâa-Tafilalet",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2ed"
+  },
+  "City": "Farkhana",
+  "Region": "l'Oriental",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2fd"
+  },
+  "City": "Saïdia",
+  "Region": "l'Oriental",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c302"
+  },
+  "City": "Taourirt",
+  "Region": "l'Oriental",
+  "Active": "1",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c307"
+  },
+  "City": "Zaïo",
+  "Region": "l'Oriental",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c31f"
+  },
+  "City": "Aourir",
+  "Region": "Souss-Massa",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c32c"
+  },
+  "City": "Ifri",
+  "Region": "Drâa-Tafilalet",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c339"
+  },
+  "City": "Ouarzazate",
+  "Region": "Drâa-Tafilalet",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c345"
+  },
+  "City": "Tamraght",
+  "Region": "Souss-Massa",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c366"
+  },
+  "City": "Tanger‎",
+  "Region": "Tanger-Tétouan-Al Hoceïma",
+  "Active": "13",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c367"
+  },
+  "City": "Tétouan‎",
+  "Region": "Tanger-Tétouan-Al Hoceïma",
+  "Active": "13",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c374"
+  },
+  "City": "Khémis Sahel",
+  "Region": "Tanger-Tétouan-Al Hoceïma",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c37b"
+  },
+  "City": "Oued Rmel",
+  "Region": "Tanger-Tétouan-Al Hoceïma",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c38a"
+  },
+  "City": "Inahnahen‎",
+  "Region": "Tanger-Tétouan-Al Hoceïma",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c255"
+  },
+  "City": "El Menzel",
+  "Region": "Fès-Meknès",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c256"
+  },
+  "City": "Guigou",
+  "Region": "Fès-Meknès",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c262"
+  },
+  "City": "Aïn Dorij",
+  "Region": "Tanger-Tétouan-Al Hoceïma",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c268"
+  },
+  "City": "Lalla Mimouna",
+  "Region": "Rabat-Salé-Kénitra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c269"
+  },
+  "City": "Mechra Bel Ksiri",
+  "Region": "Rabat-Salé-Kénitra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c276"
+  },
+  "City": "Es-Semara",
+  "Region": "Laâyoune-Sakia El Hamra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c28d"
+  },
+  "City": "Lalla Takerkoust",
+  "Region": "Marrakech-Safi",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c28f"
+  },
+  "City": "Lâattaouia",
+  "Region": "Marrakech-Safi",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2a7"
+  },
+  "City": "MyAliCherif",
+  "Region": "Drâa-Tafilalet",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2f2"
+  },
+  "City": "Kariat Arekmane",
+  "Region": "l'Oriental",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c303"
+  },
+  "City": "Tendrara",
+  "Region": "l'Oriental",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c306"
+  },
+  "City": "Touissit",
+  "Region": "l'Oriental",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c313"
+  },
+  "City": "Tamesna",
+  "Region": "Rabat-Salé-Kénitra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c390"
+  },
+  "City": "Tahla‎",
+  "Region": "Fès-Meknès",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c399"
+  },
+  "City": "Tizi Ouasli‎",
+  "Region": "Fès-Meknès",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c39b"
+  },
+  "City": "El Marsa‎",
+  "Region": "Laâyoune-Sakia El Hamra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c39e"
+  },
+  "City": "Awsard",
+  "Region": "Dakhla-Oued Ed Dahab",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c22c"
+  },
+  "City": "Khouribga",
+  "Region": "Béni Mellal-Khénifra",
+  "Active": "1",
+  "Deaths": "1",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c234"
+  },
+  "City": "Ras El Aïn",
+  "Region": "Casablanca-Settat",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c239"
+  },
+  "City": "Bir Jdid",
+  "Region": "Casablanca-Settat",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c247"
+  },
+  "City": "Oulad Ghadbane",
+  "Region": "Casablanca-Settat",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c263"
+  },
+  "City": "Dar Gueddari",
+  "Region": "Rabat-Salé-Kénitra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c280"
+  },
+  "City": "Amizmiz",
+  "Region": "Marrakech-Safi",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c248"
+  },
+  "City": "Safi",
+  "Region": "Marrakech-Safi",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c264"
+  },
+  "City": "Had Kourt",
+  "Region": "Rabat-Salé-Kénitra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c266"
+  },
+  "City": "Kénitra",
+  "Region": "Rabat-Salé-Kénitra",
+  "Active": "12",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c28b"
+  },
+  "City": "Imintanoute",
+  "Region": "Marrakech-Safi",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c28e"
+  },
+  "City": "Loudaya",
+  "Region": "Marrakech-Safi",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c29b"
+  },
+  "City": "Tahannaout",
+  "Region": "Marrakech-Safi",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2a5"
+  },
+  "City": "Agourai",
+  "Region": "Fès-Meknès",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c297"
+  },
+  "City": "Sidi Rahhal",
+  "Region": "Marrakech-Safi",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2a3"
+  },
+  "City": "Meknès‎",
+  "Region": "Fès-Meknès",
+  "Active": "49",
+  "Deaths": "0",
+  "Recovered": "28"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2b3"
+  },
+  "City": "Boufakrane",
+  "Region": "Fès-Meknès",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2da"
+  },
+  "City": "Ahfir",
+  "Region": "l'Oriental",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2df"
+  },
+  "City": "Ben Taïeb",
+  "Region": "l'Oriental",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2e2"
+  },
+  "City": "Bni Chiker",
+  "Region": "l'Oriental",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2ae"
+  },
+  "City": "Aïn Karma",
+  "Region": "Fès-Meknès",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2eb"
+  },
+  "City": "Driouch",
+  "Region": "l'Oriental",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c31d"
+  },
+  "City": "Anzi",
+  "Region": "Souss-Massa",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2c7"
+  },
+  "City": "Moulay Bouazza",
+  "Region": "Béni Mellal-Khénifra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2ca"
+  },
+  "City": "N'Zalat Bni Amar",
+  "Region": "Fès-Meknès",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2d6"
+  },
+  "City": "Toulal",
+  "Region": "Fès-Meknès",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c31e"
+  },
+  "City": "Aoulouz",
+  "Region": "Souss-Massa",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c330"
+  },
+  "City": "Inezgane",
+  "Region": "Souss-Massa",
+  "Active": "2",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2d8"
+  },
+  "City": "Zaouia d'Ifrane",
+  "Region": "Fès-Meknès",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c33e"
+  },
+  "City": "Skoura",
+  "Region": "Drâa-Tafilalet",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2e0"
+  },
+  "City": "Berkane",
+  "Region": "l'Oriental",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c222"
+  },
+  "City": "Benslimane",
+  "Region": "Casablanca-Settat",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2fb"
+  },
+  "City": "Oujda",
+  "Region": "l'Oriental",
+  "Active": "9",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c30d"
+  },
+  "City": "Khémisset",
+  "Region": "Rabat-Salé-Kénitra",
+  "Active": "4",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c33f"
+  },
+  "City": "Tabounte",
+  "Region": "Drâa-Tafilalet",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c31c"
+  },
+  "City": "Alnif",
+  "Region": "Drâa-Tafilalet",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c341"
+  },
+  "City": "Taghzout",
+  "Region": "Tanger-Tétouan-Al Hoceïma",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c351"
+  },
+  "City": "Azilal",
+  "Region": "Béni Mellal-Khénifra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c34d"
+  },
+  "City": "Toundoute",
+  "Region": "Drâa-Tafilalet",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c35b"
+  },
+  "City": "El Ksiba",
+  "Region": "Béni Mellal-Khénifra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c376"
+  },
+  "City": "Larache",
+  "Region": "Tanger-Tétouan-Al Hoceïma",
+  "Active": "3",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c36c"
+  },
+  "City": "Brikcha",
+  "Region": "Tanger-Tétouan-Al Hoceïma",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c373"
+  },
+  "City": "Karia",
+  "Region": "Fès-Meknès",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c382"
+  },
+  "City": "Aknoul‎",
+  "Region": "Fès-Meknès",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c379"
+  },
+  "City": "Moqrisset",
+  "Region": "Tanger-Tétouan-Al Hoceïma",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c37e"
+  },
+  "City": "Sidi Lyamani",
+  "Region": "Tanger-Tétouan-Al Hoceïma",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c39d"
+  },
+  "City": "Boujdour‎",
+  "Region": "Laâyoune-Sakia El Hamra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c24c"
+  },
+  "City": "Sidi Ali Ban Hamdouche",
+  "Region": "Casablanca-Settat",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c259"
+  },
+  "City": "Missour",
+  "Region": "Fès-Meknès",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c25f"
+  },
+  "City": "Skhinate",
+  "Region": "Fès-Meknès",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c279"
+  },
+  "City": "Guelmim",
+  "Region": "Guelmim-Oued Noun",
+  "Active": "1",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c292"
+  },
+  "City": "Ounagha",
+  "Region": "Marrakech-Safi",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2a6"
+  },
+  "City": "Ain Taoujdate",
+  "Region": "Fès-Meknès",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2c0"
+  },
+  "City": "Jorf",
+  "Region": "Drâa-Tafilalet",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2c1"
+  },
+  "City": "Kehf Nsour",
+  "Region": "Béni Mellal-Khénifra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2c8"
+  },
+  "City": "Moulay Idriss Zerhoun",
+  "Region": "Fès-Meknès",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2c9"
+  },
+  "City": "Moussaoua",
+  "Region": "Fès-Meknès",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2db"
+  },
+  "City": "Aklim",
+  "Region": "l'Oriental",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2e3"
+  },
+  "City": "Bni Drar",
+  "Region": "l'Oriental",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2e5"
+  },
+  "City": "Bouanane",
+  "Region": "l'Oriental",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2ea"
+  },
+  "City": "Douar Kannine",
+  "Region": "l'Oriental",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2f1"
+  },
+  "City": "Jerada",
+  "Region": "l'Oriental",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2f6"
+  },
+  "City": "Madagh",
+  "Region": "l'Oriental",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2fa"
+  },
+  "City": "Oued Heimer",
+  "Region": "l'Oriental",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c30e"
+  },
+  "City": "Oulmès",
+  "Region": "Rabat-Salé-Kénitra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c310"
+  },
+  "City": "Sidi Allal El Bahraoui",
+  "Region": "Rabat-Salé-Kénitra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c314"
+  },
+  "City": "Témara",
+  "Region": "Rabat-Salé-Kénitra",
+  "Active": "1",
+  "Deaths": "0",
+  "Recovered": "1"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c317"
+  },
+  "City": "Touarga",
+  "Region": "Rabat-Salé-Kénitra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c31b"
+  },
+  "City": "Aït Melloul",
+  "Region": "Souss-Massa",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c331"
+  },
+  "City": "Irherm",
+  "Region": "Souss-Massa",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c337"
+  },
+  "City": "Massa (Maroc)",
+  "Region": "Souss-Massa",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c34e"
+  },
+  "City": "Zagora",
+  "Region": "Drâa-Tafilalet",
+  "Active": "1",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c34f"
+  },
+  "City": "Afourar",
+  "Region": "Béni Mellal-Khénifra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c355"
+  },
+  "City": "Bin elouidane",
+  "Region": "Béni Mellal-Khénifra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c35e"
+  },
+  "City": "Kasba Tadla",
+  "Region": "Béni Mellal-Khénifra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c391"
+  },
+  "City": "Tala Tazegwaght‎",
+  "Region": "Tanger-Tétouan-Al Hoceïma",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c3a1"
+  },
+  "City": "Aït Attab",
+  "Region": "Béni Mellal-Khénifra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c21c"
+  },
+  "City": "Médiouna",
+  "Region": "Casablanca-Settat",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c228"
+  },
+  "City": "El Borouj",
+  "Region": "Casablanca-Settat",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c229"
+  },
+  "City": "El Gara",
+  "Region": "Casablanca-Settat",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c22d"
+  },
+  "City": "Loulad",
+  "Region": "Casablanca-Settat",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c235"
+  },
+  "City": "Settat",
+  "Region": "Casablanca-Settat",
+  "Active": "2",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c23a"
+  },
+  "City": "Bouguedra",
+  "Region": "Marrakech-Safi",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c24e"
+  },
+  "City": "Sidi Bouzid",
+  "Region": "Casablanca-Settat",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c257"
+  },
+  "City": "Imouzzer Kandar",
+  "Region": "Fès-Meknès",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c25b"
+  },
+  "City": "Ouled Tayeb",
+  "Region": "Fès-Meknès",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c265"
+  },
+  "City": "Jorf El Melha",
+  "Region": "Rabat-Salé-Kénitra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c278"
+  },
+  "City": "Foum Zguid",
+  "Region": "Souss-Massa",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c283"
+  },
+  "City": "Ben Guerir",
+  "Region": "Marrakech-Safi",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2b8"
+  },
+  "City": "Errachidia",
+  "Region": "Drâa-Tafilalet",
+  "Active": "4",
+  "Deaths": "0",
+  "Recovered": "1"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2bc"
+  },
+  "City": "Had Bouhssoussen",
+  "Region": "Béni Mellal-Khénifra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2bd"
+  },
+  "City": "Haj Kaddour",
+  "Region": "Fès-Meknès",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2c3"
+  },
+  "City": "M'haya",
+  "Region": "Fès-Meknès",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c304"
+  },
+  "City": "Tiztoutine",
+  "Region": "l'Oriental",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c315"
+  },
+  "City": "Tiddas",
+  "Region": "Rabat-Salé-Kénitra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c32d"
+  },
+  "City": "Igdamen",
+  "Region": "Souss-Massa",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c33a"
+  },
+  "City": "Oulad Berhil",
+  "Region": "Souss-Massa",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c33b"
+  },
+  "City": "Oulad Teïma",
+  "Region": "Souss-Massa",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c33d"
+  },
+  "City": "Sidi Ifni",
+  "Region": "Guelmim-Oued Noun",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c347"
+  },
+  "City": "Taourirt ait zaghar",
+  "Region": "Drâa-Tafilalet",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c349"
+  },
+  "City": "Temsia",
+  "Region": "Souss-Massa",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c35f"
+  },
+  "City": "Ouaouizeght",
+  "Region": "Béni Mellal-Khénifra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c36d"
+  },
+  "City": "Chefchaouen",
+  "Region": "Tanger-Tétouan-Al Hoceïma",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c381"
+  },
+  "City": "Ajdir‎",
+  "Region": "Tanger-Tétouan-Al Hoceïma",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c383"
+  },
+  "City": "Al Hoceïma‎",
+  "Region": "Tanger-Tétouan-Al Hoceïma",
+  "Active": "1",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c386"
+  },
+  "City": "Bni Hadifa‎",
+  "Region": "Tanger-Tétouan-Al Hoceïma",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c387"
+  },
+  "City": "Ghafsai‎",
+  "Region": "Fès-Meknès",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c38f"
+  },
+  "City": "Oulad Zbair‎",
+  "Region": "Fès-Meknès",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c221"
+  },
+  "City": "Ben Ahmed",
+  "Region": "Casablanca-Settat",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c243"
+  },
+  "City": "Moulay Abdallah",
+  "Region": "Casablanca-Settat",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c24a"
+  },
+  "City": "Sebt Gzoula",
+  "Region": "Marrakech-Safi",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c25c"
+  },
+  "City": "Outat El Haj",
+  "Region": "Fès-Meknès",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2b5"
+  },
+  "City": "El Hajeb",
+  "Region": "Fès-Meknès",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2bf"
+  },
+  "City": "Itzer",
+  "Region": "Drâa-Tafilalet",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2ce"
+  },
+  "City": "Sebt Jahjouh",
+  "Region": "Fès-Meknès",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2cf"
+  },
+  "City": "Sidi Addi",
+  "Region": "Fès-Meknès",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2d4"
+  },
+  "City": "Tinejdad",
+  "Region": "Drâa-Tafilalet",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2e8"
+  },
+  "City": "Dar El Kebdani",
+  "Region": "l'Oriental",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2ee"
+  },
+  "City": "Figuig",
+  "Region": "l'Oriental",
+  "Active": "1",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c2f3"
+  },
+  "City": "Kassita",
+  "Region": "l'Oriental",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c32b"
+  },
+  "City": "Ida Ougnidif",
+  "Region": "Souss-Massa",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c336"
+  },
+  "City": "M'semrir",
+  "Region": "Drâa-Tafilalet",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c33c"
+  },
+  "City": "Sarghine",
+  "Region": "Drâa-Tafilalet",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c340"
+  },
+  "City": "Tafraout",
+  "Region": "Souss-Massa",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c357"
+  },
+  "City": "Bzou",
+  "Region": "Béni Mellal-Khénifra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c361"
+  },
+  "City": "Oulad M'Barek",
+  "Region": "Béni Mellal-Khénifra",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c371"
+  },
+  "City": "Gueznaia",
+  "Region": "Tanger-Tétouan-Al Hoceïma",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c37c"
+  },
+  "City": "Ouazzane",
+  "Region": "Tanger-Tétouan-Al Hoceïma",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c393"
+  },
+  "City": "Taounate‎",
+  "Region": "Fès-Meknès",
+  "Active": "0",
+  "Deaths": "0",
+  "Recovered": "0"
+},{
+  "_id": {
+    "$oid": "60c632ac2e7db23738d8c395"
+  },
+  "City": "Taza‎",
+  "Region": "Fès-Meknès",
+  "Active": "4",
+  "Deaths": "0",
+  "Recovered": "4"
+}]

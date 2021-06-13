@@ -1,0 +1,1140 @@
+[{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c0de"
+  },
+  "location": "Morocco",
+  "date": "2021-02-15",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/Documents/BULLETIN/15.2.21.COVID-19.pdf",
+  "total_vaccinations": "1707091"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c0d5"
+  },
+  "location": "Morocco",
+  "date": "2021-02-04",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/Documents/BULLETIN/4.2.21.COVID-19.pdf",
+  "total_vaccinations": "351723"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c0d7"
+  },
+  "location": "Morocco",
+  "date": "2021-02-06",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/Documents/BULLETIN/6.2.21.COVID-19.pdf",
+  "total_vaccinations": "463966"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c0e2"
+  },
+  "location": "Morocco",
+  "date": "2021-02-19",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/Documents/BULLETIN/19.2.21.COVID-19.pdf",
+  "total_vaccinations": "2362150",
+  "people_vaccinated": "2357283",
+  "people_fully_vaccinated": "4867"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c0d3"
+  },
+  "location": "Morocco",
+  "date": "2021-02-02",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/Documents/BULLETIN/2.2.21.COVID-19.pdf",
+  "total_vaccinations": "257291"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c0f6"
+  },
+  "location": "Morocco",
+  "date": "2021-03-15",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "5992783",
+  "people_vaccinated": "4225311",
+  "people_fully_vaccinated": "1767472"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c0e0"
+  },
+  "location": "Morocco",
+  "date": "2021-02-17",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/Documents/BULLETIN/17.2.21.COVID-19.pdf",
+  "total_vaccinations": "2081013"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c0f7"
+  },
+  "location": "Morocco",
+  "date": "2021-03-16",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "6197382",
+  "people_vaccinated": "4236386",
+  "people_fully_vaccinated": "1960996"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c0fd"
+  },
+  "location": "Morocco",
+  "date": "2021-03-24",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "7128976",
+  "people_vaccinated": "4284060",
+  "people_fully_vaccinated": "2844916"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c120"
+  },
+  "location": "Morocco",
+  "date": "2021-05-07",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "9793139",
+  "people_vaccinated": "5429878",
+  "people_fully_vaccinated": "4363261"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c110"
+  },
+  "location": "Morocco",
+  "date": "2021-04-15",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "8728449",
+  "people_vaccinated": "4554000",
+  "people_fully_vaccinated": "4174449"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c0e7"
+  },
+  "location": "Morocco",
+  "date": "2021-02-25",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/Documents/BULLETIN/25.2.21.COVID-19.pdf",
+  "total_vaccinations": "3204105",
+  "people_vaccinated": "3160479",
+  "people_fully_vaccinated": "43626"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c0ec"
+  },
+  "location": "Morocco",
+  "date": "2021-03-03",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "4105862",
+  "people_vaccinated": "3745173",
+  "people_fully_vaccinated": "360689"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c0ef"
+  },
+  "location": "Morocco",
+  "date": "2021-03-06",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "4492557",
+  "people_vaccinated": "3913615",
+  "people_fully_vaccinated": "578942"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c0fc"
+  },
+  "location": "Morocco",
+  "date": "2021-03-23",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "6858400",
+  "people_vaccinated": "4265196",
+  "people_fully_vaccinated": "2593204"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c10c"
+  },
+  "location": "Morocco",
+  "date": "2021-04-10",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "8606571",
+  "people_vaccinated": "4471831",
+  "people_fully_vaccinated": "4134740"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c113"
+  },
+  "location": "Morocco",
+  "date": "2021-04-19",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "8860662",
+  "people_vaccinated": "4672326",
+  "people_fully_vaccinated": "4188336"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c119"
+  },
+  "location": "Morocco",
+  "date": "2021-04-27",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "9041985",
+  "people_vaccinated": "4808303",
+  "people_fully_vaccinated": "4233682"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c127"
+  },
+  "location": "Morocco",
+  "date": "2021-05-17",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "11001373",
+  "people_vaccinated": "6458947",
+  "people_fully_vaccinated": "4542426"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c12b"
+  },
+  "location": "Morocco",
+  "date": "2021-05-21",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "12285298",
+  "people_vaccinated": "7467468",
+  "people_fully_vaccinated": "4817830"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c135"
+  },
+  "location": "Morocco",
+  "date": "2021-06-08",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "15798674",
+  "people_vaccinated": "9341497",
+  "people_fully_vaccinated": "6457177"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c139"
+  },
+  "location": "Morocco",
+  "date": "2021-06-12",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "16457911",
+  "people_vaccinated": "9363220",
+  "people_fully_vaccinated": "7094691"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c0db"
+  },
+  "location": "Morocco",
+  "date": "2021-02-11",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/Documents/BULLETIN/11.2.21.COVID-19.pdf",
+  "total_vaccinations": "855318"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c100"
+  },
+  "location": "Morocco",
+  "date": "2021-03-27",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "7634475",
+  "people_vaccinated": "4302183",
+  "people_fully_vaccinated": "3332292"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c101"
+  },
+  "location": "Morocco",
+  "date": "2021-03-29",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "7758500",
+  "people_vaccinated": "4302897",
+  "people_fully_vaccinated": "3455603"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c108"
+  },
+  "location": "Morocco",
+  "date": "2021-04-06",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "8375241",
+  "people_vaccinated": "4382917",
+  "people_fully_vaccinated": "3992324"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c12d"
+  },
+  "location": "Morocco",
+  "date": "2021-05-24",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "12707952",
+  "people_vaccinated": "7832620",
+  "people_fully_vaccinated": "4875332"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c134"
+  },
+  "location": "Morocco",
+  "date": "2021-06-07",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "15380193",
+  "people_vaccinated": "9216223",
+  "people_fully_vaccinated": "6163970"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c0f2"
+  },
+  "location": "Morocco",
+  "date": "2021-03-10",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "4934283",
+  "people_vaccinated": "4080009",
+  "people_fully_vaccinated": "854274"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c116"
+  },
+  "location": "Morocco",
+  "date": "2021-04-22",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "8914956",
+  "people_vaccinated": "4707658",
+  "people_fully_vaccinated": "4207298"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c11d"
+  },
+  "location": "Morocco",
+  "date": "2021-05-03",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "9389397",
+  "people_vaccinated": "5107128",
+  "people_fully_vaccinated": "4282269"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c123"
+  },
+  "location": "Morocco",
+  "date": "2021-05-11",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "10317649",
+  "people_vaccinated": "5903593",
+  "people_fully_vaccinated": "4414056"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c131"
+  },
+  "location": "Morocco",
+  "date": "2021-06-02",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "14614443",
+  "people_vaccinated": "8869486",
+  "people_fully_vaccinated": "5744957"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c103"
+  },
+  "location": "Morocco",
+  "date": "2021-03-31",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "7994600",
+  "people_vaccinated": "4320349",
+  "people_fully_vaccinated": "3674251"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c106"
+  },
+  "location": "Morocco",
+  "date": "2021-04-03",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "8240870",
+  "people_vaccinated": "4348995",
+  "people_fully_vaccinated": "3891875"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c11c"
+  },
+  "location": "Morocco",
+  "date": "2021-05-01",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "9315844",
+  "people_vaccinated": "5055239",
+  "people_fully_vaccinated": "4260605"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c132"
+  },
+  "location": "Morocco",
+  "date": "2021-06-03",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "14913162",
+  "people_vaccinated": "9072565",
+  "people_fully_vaccinated": "5840597"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c138"
+  },
+  "location": "Morocco",
+  "date": "2021-06-11",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "16409704",
+  "people_vaccinated": "9362000",
+  "people_fully_vaccinated": "7047704"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c0dd"
+  },
+  "location": "Morocco",
+  "date": "2021-02-13",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/Documents/BULLETIN/13.2.21.COVID-19.pdf",
+  "total_vaccinations": "1388539"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c0ed"
+  },
+  "location": "Morocco",
+  "date": "2021-03-04",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "4233129",
+  "people_vaccinated": "3820097",
+  "people_fully_vaccinated": "413032"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c109"
+  },
+  "location": "Morocco",
+  "date": "2021-04-07",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "8448106",
+  "people_vaccinated": "4410023",
+  "people_fully_vaccinated": "4038083"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c129"
+  },
+  "location": "Morocco",
+  "date": "2021-05-19",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "11703585",
+  "people_vaccinated": "7029682",
+  "people_fully_vaccinated": "4673903"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c12c"
+  },
+  "location": "Morocco",
+  "date": "2021-05-22",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "12467071",
+  "people_vaccinated": "7635674",
+  "people_fully_vaccinated": "4831397"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c137"
+  },
+  "location": "Morocco",
+  "date": "2021-06-10",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "16237673",
+  "people_vaccinated": "9359017",
+  "people_fully_vaccinated": "6878656"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c0d9"
+  },
+  "location": "Morocco",
+  "date": "2021-02-09",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/Documents/BULLETIN/9.2.21.COVID-19.pdf",
+  "total_vaccinations": "615181"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c0d2"
+  },
+  "location": "Morocco",
+  "date": "2021-02-01",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/Documents/BULLETIN/1.2.21.COVID-19.pdf",
+  "total_vaccinations": "200081"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c0cf"
+  },
+  "location": "Morocco",
+  "date": "2021-01-28",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "https://2m.ma/fr/news/marocvaccination-anti-covid-19-90000-personnes-vaccinees-en-3-jours-20210131/",
+  "total_vaccinations": "0"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c0ea"
+  },
+  "location": "Morocco",
+  "date": "2021-03-01",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "3801650",
+  "people_vaccinated": "3568670",
+  "people_fully_vaccinated": "232980"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c114"
+  },
+  "location": "Morocco",
+  "date": "2021-04-20",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "8878445",
+  "people_vaccinated": "4684557",
+  "people_fully_vaccinated": "4193888"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c125"
+  },
+  "location": "Morocco",
+  "date": "2021-05-14",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "10491095",
+  "people_vaccinated": "6040109",
+  "people_fully_vaccinated": "4450986"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c0d4"
+  },
+  "location": "Morocco",
+  "date": "2021-02-03",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/Documents/BULLETIN/3.2.21.COVID-19.pdf",
+  "total_vaccinations": "308398"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c0e3"
+  },
+  "location": "Morocco",
+  "date": "2021-02-20",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/Documents/BULLETIN/20.2.21.COVID-19.pdf",
+  "total_vaccinations": "2461192",
+  "people_vaccinated": "2447716",
+  "people_fully_vaccinated": "13476"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c0eb"
+  },
+  "location": "Morocco",
+  "date": "2021-03-02",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "3951325",
+  "people_vaccinated": "3657468",
+  "people_fully_vaccinated": "293857"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c0fb"
+  },
+  "location": "Morocco",
+  "date": "2021-03-22",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "6781503",
+  "people_vaccinated": "4264761",
+  "people_fully_vaccinated": "2516742"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c107"
+  },
+  "location": "Morocco",
+  "date": "2021-04-05",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "8303056",
+  "people_vaccinated": "4352033",
+  "people_fully_vaccinated": "3951023"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c10a"
+  },
+  "location": "Morocco",
+  "date": "2021-04-08",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "8509229",
+  "people_vaccinated": "4433939",
+  "people_fully_vaccinated": "4075290"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c121"
+  },
+  "location": "Morocco",
+  "date": "2021-05-08",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "9864561",
+  "people_vaccinated": "5473809",
+  "people_fully_vaccinated": "4390752"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c124"
+  },
+  "location": "Morocco",
+  "date": "2021-05-12",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "10436046",
+  "people_vaccinated": "5994379",
+  "people_fully_vaccinated": "4441667"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c128"
+  },
+  "location": "Morocco",
+  "date": "2021-05-18",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "11349546",
+  "people_vaccinated": "6768161",
+  "people_fully_vaccinated": "4581385"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c12e"
+  },
+  "location": "Morocco",
+  "date": "2021-05-25",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "13165669",
+  "people_vaccinated": "8168964",
+  "people_fully_vaccinated": "4996705"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c0d0"
+  },
+  "location": "Morocco",
+  "date": "2021-01-30",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "https://2m.ma/fr/news/marocvaccination-anti-covid-19-90000-personnes-vaccinees-en-3-jours-20210131/",
+  "total_vaccinations": "90000"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c0d1"
+  },
+  "location": "Morocco",
+  "date": "2021-01-31",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.mapexpress.ma/actualite/societe-et-regions/covid-19-126-000-personnes-ete-vaccinees-au-maroc-ministere/",
+  "total_vaccinations": "126000"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c0d6"
+  },
+  "location": "Morocco",
+  "date": "2021-02-05",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/Documents/BULLETIN/5.2.21.COVID-19.pdf",
+  "total_vaccinations": "408235"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c0d8"
+  },
+  "location": "Morocco",
+  "date": "2021-02-08",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/Documents/BULLETIN/8.2.21.COVID-19.pdf",
+  "total_vaccinations": "550149"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c0dc"
+  },
+  "location": "Morocco",
+  "date": "2021-02-12",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/Documents/BULLETIN/12.2.21.COVID-19.pdf",
+  "total_vaccinations": "1112103"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c0f4"
+  },
+  "location": "Morocco",
+  "date": "2021-03-12",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "5394092",
+  "people_vaccinated": "4169133",
+  "people_fully_vaccinated": "1224959"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c0fa"
+  },
+  "location": "Morocco",
+  "date": "2021-03-20",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "6687548",
+  "people_vaccinated": "4264168",
+  "people_fully_vaccinated": "2423380"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c10d"
+  },
+  "location": "Morocco",
+  "date": "2021-04-11",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "8635238",
+  "people_vaccinated": "4486628",
+  "people_fully_vaccinated": "4148610"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c111"
+  },
+  "location": "Morocco",
+  "date": "2021-04-16",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "8763819",
+  "people_vaccinated": "4583664",
+  "people_fully_vaccinated": "4180155"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c117"
+  },
+  "location": "Morocco",
+  "date": "2021-04-23",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "8941120",
+  "people_vaccinated": "4723635",
+  "people_fully_vaccinated": "4217485"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c11a"
+  },
+  "location": "Morocco",
+  "date": "2021-04-28",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "9239973",
+  "people_vaccinated": "4985094",
+  "people_fully_vaccinated": "4254879"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c126"
+  },
+  "location": "Morocco",
+  "date": "2021-05-15",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "10672075",
+  "people_vaccinated": "6171437",
+  "people_fully_vaccinated": "4500638"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c12a"
+  },
+  "location": "Morocco",
+  "date": "2021-05-20",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "12015720",
+  "people_vaccinated": "7267431",
+  "people_fully_vaccinated": "4748289"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c136"
+  },
+  "location": "Morocco",
+  "date": "2021-06-09",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "16042670",
+  "people_vaccinated": "9354932",
+  "people_fully_vaccinated": "6687738"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c0da"
+  },
+  "location": "Morocco",
+  "date": "2021-02-10",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/Documents/BULLETIN/10.2.21.COVID-19.pdf",
+  "total_vaccinations": "746116"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c0e1"
+  },
+  "location": "Morocco",
+  "date": "2021-02-18",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/Documents/BULLETIN/18.2.21.COVID-19.pdf",
+  "total_vaccinations": "2233123"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c0ee"
+  },
+  "location": "Morocco",
+  "date": "2021-03-05",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "4377629",
+  "people_vaccinated": "3877687",
+  "people_fully_vaccinated": "499942"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c0f0"
+  },
+  "location": "Morocco",
+  "date": "2021-03-08",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "4613292",
+  "people_vaccinated": "3961941",
+  "people_fully_vaccinated": "651351"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c115"
+  },
+  "location": "Morocco",
+  "date": "2021-04-21",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "8901652",
+  "people_vaccinated": "4697873",
+  "people_fully_vaccinated": "4203779"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c118"
+  },
+  "location": "Morocco",
+  "date": "2021-04-26",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "8951316",
+  "people_vaccinated": "4731440",
+  "people_fully_vaccinated": "4219876"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c12f"
+  },
+  "location": "Morocco",
+  "date": "2021-05-31",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "14143401",
+  "people_vaccinated": "8674931",
+  "people_fully_vaccinated": "5468470"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c0f3"
+  },
+  "location": "Morocco",
+  "date": "2021-03-11",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "5102685",
+  "people_vaccinated": "4130606",
+  "people_fully_vaccinated": "972079"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c104"
+  },
+  "location": "Morocco",
+  "date": "2021-04-01",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "8096454",
+  "people_vaccinated": "4329244",
+  "people_fully_vaccinated": "3767210"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c10e"
+  },
+  "location": "Morocco",
+  "date": "2021-04-13",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "8650872",
+  "people_vaccinated": "4495477",
+  "people_fully_vaccinated": "4155395"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c0df"
+  },
+  "location": "Morocco",
+  "date": "2021-02-16",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/Documents/BULLETIN/16.2.21.COVID-19.pdf",
+  "total_vaccinations": "1904169"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c0e5"
+  },
+  "location": "Morocco",
+  "date": "2021-02-23",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/Documents/BULLETIN/23.2.21.COVID-19.pdf",
+  "total_vaccinations": "2667091",
+  "people_vaccinated": "2635859",
+  "people_fully_vaccinated": "31232"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c0e9"
+  },
+  "location": "Morocco",
+  "date": "2021-02-27",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/Documents/BULLETIN/27.2.21.COVID-19.pdf",
+  "total_vaccinations": "3597903",
+  "people_vaccinated": "3435997",
+  "people_fully_vaccinated": "161906"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c0f8"
+  },
+  "location": "Morocco",
+  "date": "2021-03-17",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "6360732",
+  "people_vaccinated": "4244651",
+  "people_fully_vaccinated": "2116081"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c0fe"
+  },
+  "location": "Morocco",
+  "date": "2021-03-25",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "7360398",
+  "people_vaccinated": "4289281",
+  "people_fully_vaccinated": "3071117"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c0ff"
+  },
+  "location": "Morocco",
+  "date": "2021-03-26",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "7525286",
+  "people_vaccinated": "4293544",
+  "people_fully_vaccinated": "3231742"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c102"
+  },
+  "location": "Morocco",
+  "date": "2021-03-30",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "7882300",
+  "people_vaccinated": "4315802",
+  "people_fully_vaccinated": "3566498"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c105"
+  },
+  "location": "Morocco",
+  "date": "2021-04-02",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "8171651",
+  "people_vaccinated": "4331082",
+  "people_fully_vaccinated": "3840569"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c10b"
+  },
+  "location": "Morocco",
+  "date": "2021-04-09",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "8552304",
+  "people_vaccinated": "4449047",
+  "people_fully_vaccinated": "4103257"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c10f"
+  },
+  "location": "Morocco",
+  "date": "2021-04-14",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "8696100",
+  "people_vaccinated": "4529399",
+  "people_fully_vaccinated": "4166701"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c11e"
+  },
+  "location": "Morocco",
+  "date": "2021-05-04",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "9558639",
+  "people_vaccinated": "5231766",
+  "people_fully_vaccinated": "4326873"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c0e6"
+  },
+  "location": "Morocco",
+  "date": "2021-02-24",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/Documents/BULLETIN/24.2.21.COVID-19.pdf",
+  "total_vaccinations": "2948945",
+  "people_vaccinated": "2911635",
+  "people_fully_vaccinated": "37310"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c0f1"
+  },
+  "location": "Morocco",
+  "date": "2021-03-09",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "4734200",
+  "people_vaccinated": "4017087",
+  "people_fully_vaccinated": "717113"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c0f5"
+  },
+  "location": "Morocco",
+  "date": "2021-03-13",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "5682508",
+  "people_vaccinated": "4210770",
+  "people_fully_vaccinated": "1471738"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c122"
+  },
+  "location": "Morocco",
+  "date": "2021-05-10",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "10131795",
+  "people_vaccinated": "5726928",
+  "people_fully_vaccinated": "4404867"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c130"
+  },
+  "location": "Morocco",
+  "date": "2021-06-01",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "14413974",
+  "people_vaccinated": "8772982",
+  "people_fully_vaccinated": "5640992"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c133"
+  },
+  "location": "Morocco",
+  "date": "2021-06-05",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "15007487",
+  "people_vaccinated": "9108843",
+  "people_fully_vaccinated": "5898644"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c0e4"
+  },
+  "location": "Morocco",
+  "date": "2021-02-22",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/Documents/BULLETIN/22.2.21.COVID-19.pdf",
+  "total_vaccinations": "2575684",
+  "people_vaccinated": "2552017",
+  "people_fully_vaccinated": "23667"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c0e8"
+  },
+  "location": "Morocco",
+  "date": "2021-02-26",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/Documents/BULLETIN/26.2.21.COVID-19.pdf",
+  "total_vaccinations": "3424295",
+  "people_vaccinated": "3327858",
+  "people_fully_vaccinated": "96437"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c0f9"
+  },
+  "location": "Morocco",
+  "date": "2021-03-19",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "6611161",
+  "people_vaccinated": "4258813",
+  "people_fully_vaccinated": "2352348"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c112"
+  },
+  "location": "Morocco",
+  "date": "2021-04-17",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "8841456",
+  "people_vaccinated": "4655007",
+  "people_fully_vaccinated": "4186449"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c11b"
+  },
+  "location": "Morocco",
+  "date": "2021-04-30",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "9315054",
+  "people_vaccinated": "5054642",
+  "people_fully_vaccinated": "4260412"
+},{
+  "_id": {
+    "$oid": "60c5ec5d2e7db23738d8c11f"
+  },
+  "location": "Morocco",
+  "date": "2021-05-05",
+  "vaccine": "Oxford/AstraZeneca, Sinopharm/Beijing",
+  "source_url": "http://www.covidmaroc.ma/pages/Accueilfr.aspx",
+  "total_vaccinations": "9680954",
+  "people_vaccinated": "5334087",
+  "people_fully_vaccinated": "4346867"
+}]

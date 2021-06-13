@@ -1,0 +1,109 @@
+[{
+  "_id": {
+    "$oid": "60c5b75910a19c5ae8543e8e"
+  },
+  "Region": "Eddakhla-Oued Eddahab",
+  "Cases": "2129",
+  "Active": "113",
+  "Total": "1",
+  "Recovered": "31"
+},{
+  "_id": {
+    "$oid": "60c5b75910a19c5ae8543e83"
+  },
+  "Region": "Tanger-Tétouan-Al Hoceima",
+  "Cases": "14710",
+  "Active": "1213",
+  "Total": "112",
+  "Recovered": "2534"
+},{
+  "_id": {
+    "$oid": "60c5b75910a19c5ae8543e87"
+  },
+  "Region": "Béni Mellal-Khénifra",
+  "Cases": "8600",
+  "Active": "1092",
+  "Total": "22",
+  "Recovered": "170"
+},{
+  "_id": {
+    "$oid": "60c5b75910a19c5ae8543e8a"
+  },
+  "Region": "Drâa-Tafilalet",
+  "Cases": "8904",
+  "Active": "481",
+  "Total": "47",
+  "Recovered": "583"
+},{
+  "_id": {
+    "$oid": "60c5b75910a19c5ae8543e86"
+  },
+  "Region": "Rabat-Salé-Kénitra",
+  "Cases": "17875",
+  "Active": "1447",
+  "Total": "22",
+  "Recovered": "688"
+},{
+  "_id": {
+    "$oid": "60c5b75910a19c5ae8543e84"
+  },
+  "Region": "Oriental",
+  "Cases": "6458",
+  "Active": "70",
+  "Total": "18",
+  "Recovered": "204"
+},{
+  "_id": {
+    "$oid": "60c5b75910a19c5ae8543e85"
+  },
+  "Region": "Fès-Meknès",
+  "Cases": "12682",
+  "Active": "1303",
+  "Total": "105",
+  "Recovered": "2121"
+},{
+  "_id": {
+    "$oid": "60c5b75910a19c5ae8543e89"
+  },
+  "Region": "Marrakech-Safi",
+  "Cases": "18603",
+  "Active": "2463",
+  "Total": "172",
+  "Recovered": "2928"
+},{
+  "_id": {
+    "$oid": "60c5b75910a19c5ae8543e88"
+  },
+  "Region": "Casablanca-Settat",
+  "Cases": "65155",
+  "Active": "4999",
+  "Total": "173",
+  "Recovered": "2628"
+},{
+  "_id": {
+    "$oid": "60c5b75910a19c5ae8543e8b"
+  },
+  "Region": "Souss-Massa",
+  "Cases": "8811",
+  "Active": "200",
+  "Total": "20",
+  "Recovered": "95"
+},{
+  "_id": {
+    "$oid": "60c5b75910a19c5ae8543e8d"
+  },
+  "Region": "Laayoune-Sakia El Hamra",
+  "Cases": "2037",
+  "Active": "56",
+  "Total": "4",
+  "Recovered": "763"
+},{
+  "_id": {
+    "$oid": "60c5b75910a19c5ae8543e8c"
+  },
+  "Region": "Guelmim-Oued Noun",
+  "Cases": "1198",
+  "Active": "36",
+  "Total": "4",
+  "Recovered": "145"
+}]
